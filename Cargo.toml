@@ -18,3 +18,4 @@ egui = { opt-level = 3 }
 naga = { opt-level = 3 }
 wgpu = { opt-level = 3 }
 winit = { opt-level = 3 }
+ 
